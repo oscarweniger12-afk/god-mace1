@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "godmace",
+  "version": "${version}",
+  "name": "God Mace",
+  "description": "Eine Götter-Mace mit Blitzen, Himmelssprung und Schockwellen.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["de.godmace.GodMaceMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

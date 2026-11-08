@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": "minecraft:lightning_rod",
+    "N": "minecraft:nether_star",
+    "T": "minecraft:totem_of_undying",
+    "M": "minecraft:mace",
+    "B": "minecraft:breeze_rod"
+  },
+  "pattern": ["LNL", "TMT", " B "],
+  "result": { "id": "godmace:god_mace", "count": 1 }
+}
